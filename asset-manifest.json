@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.651af82c.chunk.css",
-    "main.js": "/portfolio/static/js/main.d103f715.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d103f715.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.d0203632.chunk.css",
+    "main.js": "/portfolio/static/js/main.e53991d1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e53991d1.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.fb1b3dac.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.fb1b3dac.js.map",
-    "static/js/2.d483a2c0.chunk.js": "/portfolio/static/js/2.d483a2c0.chunk.js",
-    "static/js/2.d483a2c0.chunk.js.map": "/portfolio/static/js/2.d483a2c0.chunk.js.map",
+    "static/js/2.0cc2eb85.chunk.js": "/portfolio/static/js/2.0cc2eb85.chunk.js",
+    "static/js/2.0cc2eb85.chunk.js.map": "/portfolio/static/js/2.0cc2eb85.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.320758dc67a946010fb8fe1c6009cf0e.js": "/portfolio/precache-manifest.320758dc67a946010fb8fe1c6009cf0e.js",
+    "precache-manifest.bb98aa14a508acbc13bec538ac0da409.js": "/portfolio/precache-manifest.bb98aa14a508acbc13bec538ac0da409.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.651af82c.chunk.css.map": "/portfolio/static/css/main.651af82c.chunk.css.map",
-    "static/js/2.d483a2c0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d483a2c0.chunk.js.LICENSE.txt",
+    "static/css/main.d0203632.chunk.css.map": "/portfolio/static/css/main.d0203632.chunk.css.map",
+    "static/js/2.0cc2eb85.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0cc2eb85.chunk.js.LICENSE.txt",
+    "static/media/cantina-logo.jpg": "/portfolio/static/media/cantina-logo.0e86bf09.jpg",
     "static/media/hockey-faceoff.jpg": "/portfolio/static/media/hockey-faceoff.bda048a0.jpg",
+    "static/media/hockey-logo.jpg": "/portfolio/static/media/hockey-logo.0da7019a.jpg",
+    "static/media/jango-logo.jpg": "/portfolio/static/media/jango-logo.69bcdc1e.jpg",
     "static/media/jango.jpg": "/portfolio/static/media/jango.3d01cf54.jpg",
     "static/media/logo.svg": "/portfolio/static/media/logo.d8d567bb.svg",
+    "static/media/shango-logo.jpg": "/portfolio/static/media/shango-logo.5f13d854.jpg",
     "static/media/tablelinensforless.jpg": "/portfolio/static/media/tablelinensforless.81a01f49.jpg",
-    "static/media/tangorito.jpg": "/portfolio/static/media/tangorito.025db4e4.jpg"
+    "static/media/tangorito-logo.jpg": "/portfolio/static/media/tangorito-logo.baebf392.jpg",
+    "static/media/tangorito.jpg": "/portfolio/static/media/tangorito.025db4e4.jpg",
+    "static/media/turkeytrot-logo.jpg": "/portfolio/static/media/turkeytrot-logo.1e8b06e0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fb1b3dac.js",
-    "static/js/2.d483a2c0.chunk.js",
-    "static/css/main.651af82c.chunk.css",
-    "static/js/main.d103f715.chunk.js"
+    "static/js/2.0cc2eb85.chunk.js",
+    "static/css/main.d0203632.chunk.css",
+    "static/js/main.e53991d1.chunk.js"
   ]
 }
