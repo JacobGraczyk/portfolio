@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a0e447c7.chunk.css",
-    "main.js": "/portfolio/static/js/main.aaabeeb4.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.aaabeeb4.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.8877235f.chunk.css",
+    "main.js": "/portfolio/static/js/main.ac0f90a3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ac0f90a3.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.fb1b3dac.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.fb1b3dac.js.map",
     "static/js/2.ad10aab2.chunk.js": "/portfolio/static/js/2.ad10aab2.chunk.js",
     "static/js/2.ad10aab2.chunk.js.map": "/portfolio/static/js/2.ad10aab2.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.45ade0092cf370b57bd114a477069281.js": "/portfolio/precache-manifest.45ade0092cf370b57bd114a477069281.js",
+    "precache-manifest.5209f015b4ac096eada81d62ff50de2f.js": "/portfolio/precache-manifest.5209f015b4ac096eada81d62ff50de2f.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.a0e447c7.chunk.css.map": "/portfolio/static/css/main.a0e447c7.chunk.css.map",
+    "static/css/main.8877235f.chunk.css.map": "/portfolio/static/css/main.8877235f.chunk.css.map",
     "static/js/2.ad10aab2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ad10aab2.chunk.js.LICENSE.txt",
     "static/media/about.jpg": "/portfolio/static/media/about.7785045d.jpg",
     "static/media/cantina-logo.jpg": "/portfolio/static/media/cantina-logo.0e86bf09.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.fb1b3dac.js",
     "static/js/2.ad10aab2.chunk.js",
-    "static/css/main.a0e447c7.chunk.css",
-    "static/js/main.aaabeeb4.chunk.js"
+    "static/css/main.8877235f.chunk.css",
+    "static/js/main.ac0f90a3.chunk.js"
   ]
 }
