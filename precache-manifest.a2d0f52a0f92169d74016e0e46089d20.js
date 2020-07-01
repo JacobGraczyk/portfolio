@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "291872c81271ab7938090dac96b54c8d",
+    "revision": "0900cb8b9c031f48271078e377c2a108",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "f9ad9d529fc9829542ae",
+    "revision": "0a82930f76a4a31afe49",
     "url": "/portfolio/static/css/main.7cc1dcd4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.3556dacb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9ad9d529fc9829542ae",
-    "url": "/portfolio/static/js/main.749c89f1.chunk.js"
+    "revision": "0a82930f76a4a31afe49",
+    "url": "/portfolio/static/js/main.255e5479.chunk.js"
   },
   {
     "revision": "88fbd3d397ae3690d5f2",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/towel.45ea70bd.jpg"
   },
   {
-    "revision": "069b633d3b971ed5a06033233f52c305",
-    "url": "/portfolio/static/media/turkey-shirt.069b633d.jpg"
+    "revision": "fb3999b9a724f17f5f5ec0336acea353",
+    "url": "/portfolio/static/media/turkey-shirt.fb3999b9.jpg"
   },
   {
     "revision": "1e8b06e03334c9348ca6932c6ffedd03",
