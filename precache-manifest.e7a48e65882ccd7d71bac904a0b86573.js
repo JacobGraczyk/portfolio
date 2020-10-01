@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a30c3e4d2deeac4d9459e5aeef19eab9",
+    "revision": "5d4c655e4f41db638e6a903785cd900a",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "5c5afc96ee5ae154954f",
+    "revision": "603c1e7e56045dcd6e48",
     "url": "/portfolio/static/css/main.c201b91d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.3556dacb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c5afc96ee5ae154954f",
-    "url": "/portfolio/static/js/main.4964a669.chunk.js"
+    "revision": "603c1e7e56045dcd6e48",
+    "url": "/portfolio/static/js/main.c1d4eb59.chunk.js"
   },
   {
     "revision": "88fbd3d397ae3690d5f2",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/red-tablecloth.f4d5c26e.jpg"
   },
   {
-    "revision": "cc9902a8653aa04bfa5104c6cc39158d",
-    "url": "/portfolio/static/media/resume.cc9902a8.pdf"
+    "revision": "83784711373715f732c6d7f4a2c491b9",
+    "url": "/portfolio/static/media/resume.83784711.pdf"
   },
   {
     "revision": "1f9607819f103102b9cc6d31f9286df6",
