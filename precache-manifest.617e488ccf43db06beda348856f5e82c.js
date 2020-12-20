@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42fa4f3ca4c11dd61503b1c52dfc0227",
+    "revision": "35c2c1b57c20b4a4aa6cb2baa6c21420",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "83156d73cd8891d9300e",
+    "revision": "5d0ea446a5021cea1c62",
     "url": "/portfolio/static/css/main.94a27983.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.9f9a2495.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83156d73cd8891d9300e",
-    "url": "/portfolio/static/js/main.2a6a4eca.chunk.js"
+    "revision": "5d0ea446a5021cea1c62",
+    "url": "/portfolio/static/js/main.aeda6830.chunk.js"
   },
   {
     "revision": "88fbd3d397ae3690d5f2",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/color-chef.2cb82a09.jpg"
   },
   {
-    "revision": "1cea9f26cfe43c56c396ba442dc204f5",
-    "url": "/portfolio/static/media/floor-stickers.1cea9f26.jpg"
+    "revision": "71c7ff2f46c6628698c7c915e33ff6ff",
+    "url": "/portfolio/static/media/floor-stickers.71c7ff2f.jpg"
   },
   {
     "revision": "bda048a0f528830af66a7dfbc85bc3eb",
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/red-tablecloth.f4d5c26e.jpg"
   },
   {
-    "revision": "83784711373715f732c6d7f4a2c491b9",
-    "url": "/portfolio/static/media/resume.83784711.pdf"
+    "revision": "61ae30b82f090c6a1e4f491cd4f75d72",
+    "url": "/portfolio/static/media/resume.61ae30b8.pdf"
   },
   {
     "revision": "1f9607819f103102b9cc6d31f9286df6",
